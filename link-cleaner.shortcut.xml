@@ -14,7 +14,7 @@
 					<key>Value</key>
 					<dict>
 						<key>Type</key>
-						<string>ExtensionInput</string>
+						<string>ShortcutInput</string>
 					</dict>
 					<key>WFSerializationType</key>
 					<string>WFTextTokenAttachment</string>
